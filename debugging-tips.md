@@ -372,7 +372,7 @@ and put [phoc.ini](https://github.com/droidian-devices/adaptation-droidian-miato
 
 the value for `output:HWCOMPOSER-1` can be adjusted as needed.
 
-### vendor partiton overlay
+### vendor partition overlay
 
 To overlay a file over the vendor partition, `droid-vendor-overlay` directory can be used
 
